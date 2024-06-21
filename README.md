@@ -17,6 +17,7 @@ Hello, I'm Rafi. I'm into data stuffs, Machine Learning, and Deep Learning.
 Hi, you read and scrolled this far, I appreciate it. I graduated from Computer Science at Universitas Brawijaya, while going there, i specialize in data field and Machine Learning. I'm also an alumni of Google's Machine Learning academy, Bangkit Academy 2023. I think, wonder, and ponder a lot.
 </br>Find me on my socials:</br>
 + [LinkedIn](https://linkedin.com/in/RafiIndra)
++ rafiplg@gmail.com
 
 
 
