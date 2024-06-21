@@ -1,4 +1,5 @@
-Hello, I'm Rafi. I'm into data stuffs, Machine Learning, and Deep Learning.
+Hello, I'm Rafi. I'm into data stuffs, Machine Learning, and Deep Learning. </br>
+Welcome to my portofolio, check out my projects below 👇
 ## 🚧 Projects
 | Project Link | Completion Date | Description |
 | --- | --- | --- |
