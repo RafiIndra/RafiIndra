@@ -3,7 +3,7 @@ Welcome to my portofolio, check out my projects below 👇
 ## 🚧 Projects
 | Project Link | Completion Date | Description |
 | --- | --- | --- |
-| [🎨Generative AI with TensorFlow](https://github.com/RafiIndra/Generative-AI-FashionMNIST) | Jul 2024 | Trained a Generative Adversarial Network (GAN) to learn the FashionMNIST dataset, to then be capable of generating a new image. |
+| [🎨Generative AI with TensorFlow](https://github.com/RafiIndra/Generative-AI-FashionMNIST) | Jul 2024 | Trained a Generative Adversarial Network (GAN) model to learn the FashionMNIST dataset, to then be capable of generating a new images. |
 | [♟️Deeplefish Chess Engine](https://github.com/RafiIndra/Deeplefish) | Apr 2024 | Processed over 57.000 games of chess broken down into more than 1.200.000 move sequences to train an LSTM model to predict the next move of a given chess move sequence. The model is then implemented into a UCI chess engine. Deeplefish is capable of defeating a 1100 rated opponent chess engine.|
 | [🥕NutriMatch Scan Food Feature](https://github.com/NutriMatch) | Jun 2023| I led the Machine Learning team of NutriMatch app to develop a "scan food" feature with CNN model to recognize images from 10 types of food. The model is capable of recognizing multiple food in a single image. |
 | [💉Vaccine Shot Prediction](https://github.com/RafiIndra/FIND-IT) | May 2023 | Developed a Deep Neural Network model to predict vaccination rate of H1N1 and seasonal flu. Conducted an extensive Exploratory Data Analysis, imputing missing data with Logistic Regression, extracting and engineering features. This project is my entry to Data Analytics Competition FIND-IT 2023 for the elimination round, where my team got 6th place and went through to the final round. |
