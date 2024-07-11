@@ -1,6 +1,6 @@
 Hello, I'm Rafi. I'm into data stuffs, Machine Learning, and Deep Learning. </br>
 Welcome to my portofolio, check out my projects below 👇
-## 🚧 Projects
+# 🚧 Projects
 | Project Link | Completion Date | Description | Field |
 | --- | --- | --- | --- |
 | [🎨Generative AI with TensorFlow](https://github.com/RafiIndra/Generative-AI-FashionMNIST) | Jul 2024 | Trained a Generative Adversarial Network (GAN) model to learn the FashionMNIST dataset, to then be capable of generating a new images. | Deep Learning-Generative |
@@ -8,7 +8,12 @@ Welcome to my portofolio, check out my projects below 👇
 | [🥕NutriMatch Scan Food Feature](https://github.com/NutriMatch) | Jun 2023| I led the Machine Learning team of NutriMatch app to develop a "scan food" feature with CNN model to recognize images from 10 types of food. The model is capable of recognizing multiple food in a single image. | Deep Learning-Computer Vision |
 | [💉Vaccine Shot Prediction](https://github.com/RafiIndra/FIND-IT) | May 2023 | Developed a Deep Neural Network model to predict vaccination rate of H1N1 and seasonal flu. Conducted an extensive Exploratory Data Analysis, imputing missing data with Logistic Regression, extracting and engineering features. This project is my entry to Data Analytics Competition FIND-IT 2023 for the elimination round, where my team got 6th place and went through to the final round. | Deep Learning-Multilabel Classification |
 | [🧺Customer Personality Analysis](https://github.com/RafiIndra/customer_personality_analysis) | Dec 2022 | Analyzed the behaviour and buying patterns of customers. Conducted by grouping the customers into clusters then analyzed the buying patterns of each cluster with apriori method. | Machine Learning-Association |
-## 🛠️Skills and Tools
+# Medium Articles
++ [Visualizing Most Common Password](https://medium.com/@rafiindra/visualizing-common-passwords-with-python-d9943ecfbb2e)
++ [Generative AI with TensorFlow](https://medium.com/@rafiindra/train-your-own-image-generative-ai-with-tensorflow-a89ba141681e)
++ [Visualizing a Formula 1 Lap](https://medium.com/@rafiindra/visualizing-a-formula-1-lap-with-tableau-15ef6be39a28)
++ [Older Articles](https://medium.com/@rafiindra/)
+# 🛠️Skills and Tools
 + **Programming Languages**: Python, Java, SQL
 + **Deep Learning**: TensorFlow, Torch
 + **Machine Learning and Data Manipulation**: TensorFlow, Torch, Pandas, NumPy
