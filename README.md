@@ -9,10 +9,11 @@ Welcome to my portofolio, check out my projects below 👇
 | [💉Vaccine Shot Prediction](https://github.com/RafiIndra/FIND-IT) | May 2023 | Developed a Deep Neural Network model to predict vaccination rate of H1N1 and seasonal flu. Conducted an extensive Exploratory Data Analysis, imputing missing data with Logistic Regression, extracting and engineering features. This project is my entry to Data Analytics Competition FIND-IT 2023 for the elimination round, where my team got 6th place and went through to the final round. | Deep Learning-Multilabel Classification |
 | [🧺Customer Personality Analysis](https://github.com/RafiIndra/customer_personality_analysis) | Dec 2022 | Analyzed the behaviour and buying patterns of customers. Conducted by grouping the customers into clusters then analyzed the buying patterns of each cluster with apriori method. | Machine Learning-Association |
 # Medium Articles
-+ [Visualizing Most Common Password](https://medium.com/@rafiindra/visualizing-common-passwords-with-python-d9943ecfbb2e)
-+ [Generative AI with TensorFlow](https://medium.com/@rafiindra/train-your-own-image-generative-ai-with-tensorflow-a89ba141681e)
-+ [Visualizing a Formula 1 Lap](https://medium.com/@rafiindra/visualizing-a-formula-1-lap-with-tableau-15ef6be39a28)
-+ [Older Articles](https://medium.com/@rafiindra/)
+I'm also actively writing data articles at Medium, checkout my profile [here](https://medium.com/@rafiindra/)
++ [🔓Visualizing Common Passwords with Python](https://medium.com/@rafiindra/visualizing-common-passwords-with-python-d9943ecfbb2e), 11/07/2024
++ [🎨Train your own Image-Generative AI with TensorFlow](https://medium.com/@rafiindra/train-your-own-image-generative-ai-with-tensorflow-a89ba141681e), 03/07/2024
++ [🏎️Visualizing a Formula 1 Lap with Tableau](https://medium.com/@rafiindra/visualizing-a-formula-1-lap-with-tableau-15ef6be39a28), 26/06/2024
++ [🗂️Older Articles](https://medium.com/@rafiindra/)
 # 🛠️Skills and Tools
 + **Programming Languages**: Python, Java, SQL
 + **Deep Learning**: TensorFlow, Torch
@@ -24,6 +25,7 @@ Welcome to my portofolio, check out my projects below 👇
 Hi, you read and scrolled this far, I appreciate it. I graduated from Computer Science at Universitas Brawijaya, while going there, i specialize in data field and Machine Learning. I'm also an alumni of Google's Machine Learning academy, Bangkit Academy 2023. I think, wonder, and ponder a lot.
 </br>Find me on my socials:</br>
 + [LinkedIn](https://linkedin.com/in/RafiIndra)
++ [Medium](https://medium.com/@rafiindra/)
 + rafiplg@gmail.com
 
 
