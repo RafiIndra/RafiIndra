@@ -1,3 +1,6 @@
+## Update Sept 2026
+Majority of these are outdated or no longer represent my skillset and expertise. All my contributions since are on my [GitLab](https://gitlab.com/gapleftt), though most of it are private contributions. 
+##
 Hello, I'm Rafi. I'm into data stuffs, Machine Learning, and Deep Learning. </br>
 Welcome to my portofolio, check out my projects below 👇
 # 🚧 Projects
