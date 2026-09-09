@@ -1,3 +1,6 @@
+<h3>Update Sept 2026:</h3>
+Majority of these are outdated. All my contributions since are on my [GitLab](https://gitlab.com/gapleftt), though most of it are private contributions. I'm currently a Solution Architects working in the banking, finance, and retail area.
+<hr>
 Hello, I'm Rafi. I'm into data stuffs, Machine Learning, and Deep Learning. </br>
 Welcome to my portofolio, check out my projects below 👇
 # 🚧 Projects
